@@ -1,6 +1,7 @@
 #! /bin/bash
 
-read -n 9 -p "Please type your ip Range etc //195.114.8// >> " var1
+echo "lemo96 / github / ping ip Range Script"
+read -n 9 -p "Please type your ip Range etc //192.168.1// >> " var1
 
 echo "Your Ip range is $var1"
 
